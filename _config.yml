@@ -8,10 +8,10 @@ baseurl: "/test" # the subpath of your site, e.g. /blog
 author: RealityTech SASU
 street_address: 26 rue Fernand Marin
 city: Bordeaux
-state: 
+state: Aquitaine
 zip_code: 33000
 country: France
-phone: (716) 555-5555
+phone: (+33) 7 50 38 73 (sept sept)
 
 # Social settings
 500px_url:
@@ -25,5 +25,8 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/rea_lity_tech
 
+sass:
+    sass_dir: _sass
+    
 # Build settings
 markdown: kramdown
